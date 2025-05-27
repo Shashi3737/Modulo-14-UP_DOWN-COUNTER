@@ -16,32 +16,5 @@ Digital timers
 Frequency dividers
 Finite state machines (FSMs)
 Custom counting circuits in VLSI designs
-About
-Modulo-14 Loadable Asynchronous Up-Down Counter
+ 
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-SystemVerilog
-77.8%
- 
-Makefile
-18.8%
- 
-Verilog
-3.4%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
